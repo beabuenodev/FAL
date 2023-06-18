@@ -1,0 +1,4 @@
+﻿  E35.cpp
+C:\Users\FAMILIA BUENO\Desktop\Ejercicios DomJudge\FAL\E35\E35\E35.cpp(61,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\FAMILIA BUENO\Desktop\Ejercicios DomJudge\FAL\E35\E35\E35.cpp(27): warning C4715: 'bin_search': no todas las rutas de acceso de control devuelven un valor
+  E35.vcxproj -> C:\Users\FAMILIA BUENO\Desktop\Ejercicios DomJudge\FAL\E35\Debug\E35.exe

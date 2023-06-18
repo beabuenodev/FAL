@@ -1,0 +1,4 @@
+﻿  E37.cpp
+C:\Users\FAMILIA BUENO\Desktop\Ejercicios DomJudge\FAL\E37\E37\E37.cpp(22,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\FAMILIA BUENO\Desktop\Ejercicios DomJudge\FAL\E37\E37\E37.cpp(58,23): warning C4018: '<': no coinciden signed/unsigned
+  E37.vcxproj -> C:\Users\FAMILIA BUENO\Desktop\Ejercicios DomJudge\FAL\E37\Debug\E37.exe
