@@ -1,0 +1,5 @@
+﻿  ECONT3.cpp
+C:\Users\FAMILIA BUENO\Desktop\Ejercicios DomJudge\FAL\ECONT3\ECONT3\ECONT3.cpp(42,8): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\FAMILIA BUENO\Desktop\Ejercicios DomJudge\FAL\ECONT3\ECONT3\ECONT3.cpp(78,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\FAMILIA BUENO\Desktop\Ejercicios DomJudge\FAL\ECONT3\ECONT3\ECONT3.cpp(104,27): warning C4101: 'n': variable local sin referencia
+  ECONT3.vcxproj -> C:\Users\FAMILIA BUENO\Desktop\Ejercicios DomJudge\FAL\ECONT3\Debug\ECONT3.exe
