@@ -38,7 +38,7 @@ void vueltaAtras(const int n, vector<vector<int>> const& estimaciones, vector<ve
         int& maxposible, vector<int> const& maxdonaciones, int k) {
     for (int i = 0; i < n; i++) {
         sol[k] = i;
-        suma += estimaciones[k][i];
+        suma += estimaciones[i][k];
         maxposible -= maxdonaciones[k];
         if (esValida(n, vetos, sol, marcas, k, i)) {
             if (esSolucion(n, k)) {
@@ -52,7 +52,7 @@ void vueltaAtras(const int n, vector<vector<int>> const& estimaciones, vector<ve
             }
         } 
         maxposible += maxdonaciones[k];
-        suma -= estimaciones[k][i];
+        suma -= estimaciones[i][k];
     }
 }
 
